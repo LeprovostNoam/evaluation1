@@ -35,6 +35,11 @@ footer {
     width: 100%;
 }
 
+.card {
+    background-color: #0202028a;
+    color: white;
+}
+
 @media (min-width: 768px){
     .container-fluid {
         max-width: 748px;
